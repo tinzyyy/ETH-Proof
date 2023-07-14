@@ -13,10 +13,7 @@ Excuting the program
 
 To run this program, you can use Remix, an online Solidity IDE. To get started, 
 go to the Remix website at https://remix.ethereum.org/.
-
-First of all, you are on the Remix website, create a new file by clicking the file icon on the left sidebar. 
-Save the file with the .sol extension (eg. MyToken.sol)
-
+Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension(e.g.,MyToken.sol). Copy and paste the following code into the file
 
 # License 
 This contract is realeased under the MIT.
