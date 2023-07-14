@@ -63,7 +63,7 @@ totalSupply: An unsigned interger variables that represent the totalSupply
 To store token balances for each address, the contract makes use of the 
 balances mapping variables.
 
-# Functon 
+# Function 
 New tokens can be created and sent to a specific address using 
 the mint function.
 
