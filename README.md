@@ -55,8 +55,8 @@ network that compatible and interact with through fucntiion calls. It's a basic
 implementation focusing on the minting,burning and querying balances.
 
 # Authors 
-Jencen Wee
-8212778@ntc.edu.ph
+Baquiran, Kristine Mae P.
+8215029@ntc.edu.ph
 
 # License 
 This project is licensed under the MIT License - see the LICENSE.md file for details
